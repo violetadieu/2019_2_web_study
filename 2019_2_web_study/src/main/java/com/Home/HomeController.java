@@ -15,14 +15,17 @@ import java.util.ArrayList;
 
 @Controller
 public class HomeController {
-    @RequestMapping(value = "/", method = RequestMethod.GET)
+    @RequestMapping(value = "/")
     public ModelAndView Home(){
+
+
         //ModelAndView 객체 선언
         ModelAndView mv=new ModelAndView();
 
         //IOC 컨테이너 호출
         AnnotationConfigApplicationContext ctx =
                 new AnnotationConfigApplicationContext(AddObjects.class);
+
         //호출한 컨테이너로 객체 주입
         Cats catsInfo = ctx.getBean("catsInfo",Cats.class);
         catsInfo.getMyCatsInfo();

@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-webmvc-portlet-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-instrument-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-aspects-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-jms-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-beans-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-core-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-orm-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-oxm-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-webmvc-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-context-support-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-websocket-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-test-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-aop-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-expression-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-messaging-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-web-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-tx-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-jdbc-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2019_2_web_study/lib/spring-context-4.3.18.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
