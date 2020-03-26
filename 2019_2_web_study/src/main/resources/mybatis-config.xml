@@ -5,8 +5,7 @@
 <configuration>
 
     <typeAliases>
-        <package name="com.Welfare.WelfareVO"/>
-        <package name="com.Estimate.EstimateVO"/>
+        <package name="com"/>
     </typeAliases>
 
 </configuration>
